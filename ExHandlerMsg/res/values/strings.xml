@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="first_line">New text will be appended...</string>
+    <string name="app_name">TestHandler</string>
+    <string name="app_title">Test Android Handler</string>
+
+</resources>
