@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	updatePeriodMillis: ms. 1800000 => 30min
+	    If the frequency is too high, the battery will cost.
+	    But default seems to update per 30min.  
+ -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:minWidth="220dp"
+    android:minHeight="72dp"
+    android:updatePeriodMillis="1800000"
+    android:initialLayout="@layout/main" >        
+</appwidget-provider>
